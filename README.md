@@ -83,6 +83,7 @@ void loop()
 
 
 ## Result:
+Thus the 230V bulb at home is remotely controlled by the Google voice assistance.
 
 
 
